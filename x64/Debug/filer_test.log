@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Minju\source\repos\filer_test\filer_test\main.cpp(59,49): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\Minju\source\repos\filer_test\filer_test\main.cpp(82,35): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Minju\source\repos\filer_test\filer_test\main.cpp(82,29): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Minju\source\repos\filer_test\filer_test\main.cpp(83,36): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Minju\source\repos\filer_test\filer_test\main.cpp(83,30): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  filer_test.vcxproj -> C:\Users\Minju\source\repos\filer_test\x64\Debug\filer_test.exe
